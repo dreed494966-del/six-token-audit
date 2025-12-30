@@ -43,4 +43,26 @@ git push -u origin main
 - 验证签名和权限更新
 - 为中国审核人员提供双语文档
 - 模块化工作流程，适应 TRON/EVM 集成
+- 📦 repo-name
+ ┣ 📁 audit
+ ┃ ┣ signer-tree/
+ ┃ ┣ permissions/
+ ┃ ┣ blacklist-removal/
+ ┃ ┣ contract-actions/
+ ┃ ┗ compliance-tags/
+ ┣ 📁 metadata
+ ┃ ┣ english/
+ ┃ ┗ chinese/
+ ┣ 📁 proofs
+ ┃ ┣ tronscan/
+ ┃ ┣ tx-hashes/
+ ┃ ┗ wallet-verification/
+ ┣ 📁 contract
+ ┃ ┣ source/
+ ┃ ┗ abi/
+ ┣ 📁 docs
+ ┃ ┣ audit-pack/
+ ┃ ┗ compliance/
+ ┣ README.md
+ ┗ LICENSE
  
