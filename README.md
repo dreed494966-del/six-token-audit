@@ -65,4 +65,25 @@ git push -u origin main
  ┃ ┗ compliance/
  ┣ README.md
  ┗ LICENSE
- 
+
+ 📦 six-token-tronscan-audit-or-6t-contract
+ ┣ 📁 contract
+ ┃ ┣ source/
+ ┃ ┗ abi/
+ ┣ 📁 audit
+ ┃ ┣ blacklist-removal/
+ ┃ ┣ contract-actions/
+ ┃ ┣ permissions/
+ ┃ ┗ signer-tree/
+ ┣ 📁 metadata
+ ┃ ┣ english/
+ ┃ ┗ chinese/
+ ┣ 📁 proofs
+ ┃ ┣ tronscan/
+ ┃ ┣ tx-hashes/
+ ┃ ┗ wallet-verification/
+ ┣ 📁 docs
+ ┃ ┣ audit-pack/
+ ┃ ┗ compliance/
+ ┣ README.md
+ ┗ LICENSE
